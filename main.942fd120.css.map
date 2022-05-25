@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,GACE,eACF,CAEA,KACE,YAAa,CACb,wBACF","file":"main.942fd120.css","sourceRoot":"../src","sourcesContent":["li {\n  list-style: none;\n}\n\nbody {\n  height: 100vh;\n  background-color: orangered;\n}\n"]}
